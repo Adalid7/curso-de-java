@@ -21,11 +21,16 @@ public class Ejem {
         String frase = "hola mi nombre es: " + nombre + " y tengo " + (followersInstagram + likeYoutube) + " entre intagram y youtube";
         System.out.println(frase);
     */
+     
+     
+     
      int edad = 18;
      
         if (edad >=18) {
             System.out.println("es adulto");
-                
+            System.out.println("creacion de una nueva rama");
+            
+                 
             
         } else {
             System.out.println("es menor de edad");
