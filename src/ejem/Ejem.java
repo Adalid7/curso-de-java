@@ -25,7 +25,7 @@ public class Ejem {
      
         if (edad >=18) {
             System.out.println("es adulto");
-            System.out.println("creacion de una nueva rama");
+            System.out.println("prueva de github");
             
             
             
