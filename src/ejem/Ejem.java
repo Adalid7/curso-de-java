@@ -30,7 +30,7 @@ public class Ejem {
             System.out.println("es adulto");
             System.out.println("prueva de github");
             
-             System.out.println("casa");    
+              
             
         } else {
             System.out.println("es menor de edad");
