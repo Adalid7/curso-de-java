@@ -27,6 +27,7 @@ public class Ejem {
             System.out.println("es adulto");
             System.out.println("creacion de una nueva rama");
             
+            
         } else {
             System.out.println("es menor de edad");
          
